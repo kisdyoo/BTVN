@@ -1,0 +1,7 @@
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\bin\Debug\GameCaro_CT3.exe
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\bin\Debug\GameCaro_CT3.pdb
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\obj\Debug\GameCaro_CT3.csprojResolveAssemblyReference.cache
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\obj\Debug\GameCaro_CT3.Properties.Resources.resources
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\obj\Debug\GameCaro_CT3.csproj.GenerateResource.Cache
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\obj\Debug\GameCaro_CT3.exe
+E:\Tai_Lieu\HK2_2019-2020\GameCaro_CT3\GameCaro_CT3\obj\Debug\GameCaro_CT3.pdb
