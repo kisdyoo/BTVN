@@ -1,0 +1,15 @@
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\bin\Debug\RemoveTextDeQuy.exe
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\bin\Debug\RemoveTextDeQuy.pdb
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.Form1.resources
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.Properties.Resources.resources
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.csproj.GenerateResource.Cache
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.exe
+E:\Tai_Lieu\HK2_2019-2020\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.pdb
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.exe
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.pdb
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\bin\Debug\RemoveTextDeQuy.exe
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\bin\Debug\RemoveTextDeQuy.pdb
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.csprojResolveAssemblyReference.cache
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.Form1.resources
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.Properties.Resources.resources
+E:\Tai_Lieu\HK2_2019-2020\PTPM\RemoveTextDeQuy\RemoveTextDeQuy\obj\Debug\RemoveTextDeQuy.csproj.GenerateResource.Cache
